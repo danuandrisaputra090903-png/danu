@@ -24,4 +24,5 @@ print("nilai dari z =", z)
 
 # tugas 
 # nama saya adalah : (danu saputra)
+
 # nim saya adalah : (25241099)
